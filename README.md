@@ -1,6 +1,6 @@
 # DigitsRecognition
 Utilisation d'une méthode simple (K-plus proches voisins) d'apprentisage supervisé pour un problème de classification. La méthode est ici appliquée à la reconnaissance de chiffres écrits à la main.
-Les données d'entrainement doivent être générées en dessinant des chiffres et en cliquant sur **Train**, ensuite le modèle peut-être testé en cliquant sur **Test**
+Les données d'entrainement doivent être générées en cliquant sur **Train**, en dessinant des chiffres puis en cliquant sur **Save**, ensuite le modèle peut-être testé en cliquant sur **Guess**
 
 ## Visualisation dans une interface graphique Tkinter
 
